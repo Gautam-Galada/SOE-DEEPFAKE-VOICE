@@ -1,0 +1,28 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>what is statue of equality</pattern>
+        <pattern>tell me about statue of equality</pattern>
+        <pattern>tell me about the statue of ramanuja</pattern>
+        <template>
+            video1
+        </template>
+
+    </category>
+    
+    <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>
+            I'm a bot, silly!
+        </template>
+    </category>
+
+    <category>
+        <pattern>who is pranav</pattern>
+        <template>eng
+        </template>
+    </category>
+
+    
+</aiml>

@@ -26,6 +26,106 @@
             "tag": "SOE4",
             "patterns":["when will the statue of equality be open for people","when will the statue of equality be open for people","when is the statue of equality opening","is the the statue of equality open"],
             "responses":["SOE-4"]
+        },
+        {
+            "tag": "SOE7",
+            "patterns":["How can we say that god exists","god exists","existence of god","god exists","does god exist","can god exist","is god existing"],
+            "responses":["SOE-7"]
+        },
+
+
+
+
+        {
+            "tag": "SOE8",
+            "patterns":["unseen supreme power","what is the name of the unseen supreme power","describe about the supreme power","can you tell me about supreme powers","what is the name of the unseen power", "can you name the unseen power","what is the name of the unseen supreme power","can you name the unseen supreme power","tell me about the unseen supreme power","describe about the supreme power","who is the supreme power"],
+            "responses":["SOE-8"]
+        },
+        {
+            "tag": "SOE9",
+            "patterns":["is there only one god","is there only one god","do we have only one god","do we have more than one god","why do we have only one god","is there only one god","can we have multiple god"],
+            "responses":["SOE-9"]
+        },
+        {
+            "tag": "SOE10",
+            "patterns": ["What does the name vishnu mean","why do we refer vishnu as our supreme power","who is lord vishnu", "is vishnu the supreme power", "What does the name bhrama mean","What does the name bramha mean","who is lord bramha","who is lord bhrama","why do we refer bhrama as our supreme power", "why do we refer bramha as our supreme power","why do we refer bramha as our supreme power","why do we refer bhrama as our supreme power"],
+            "responses": ["SOE-10"]
+        },
+        {
+            "tag": "SOE11",
+            "patterns": ["Should we revere and respect the reverse this supreme power narayana","do we need to revere narayana","why Should we revere and respect this supreme power narayana","thoughts on narayana as a supreme power"],
+            "responses": ["SOE-11"]
+        },
+        {
+            "tag": "SOE12",
+            "patterns": ["If there is only one God who are the other deities that have a temple and that is worshipped by many","why do people worship so many gods","why do we have deities worshipping different gods","why do deities worship different gods","why do people worship different gods"],
+            "responses": ["SOE-12"]
+        },
+        {
+            "tag": "SOE13",
+            "patterns": ["what do devatas do","what do gods do","how many devatas are there","how many types of gods exist","can you tell me about different types of gods","do devatas work","do gods work"],
+            "responses": [""]
+        },
+        {
+            "tag": "SOE14",
+            "patterns": ["what is prayer","what do you mean by praying","what is a prayer","what's prayer","according to you what is a prayer"],
+            "responses": ["SOE-14"]
+        },
+        {
+            "tag": "SOE15",
+            "patterns": ["why do we pray to god","why do we pray","why is praying to god important","why do we pray"],
+            "responses": ["SOE-15"]
+        },
+        {
+            "tag": "SOE16",
+            "patterns": ["how should we pray to god, does prayer mean being serious with our eyes closed","how should we pray to god","does prayer mean being serious with our eyes closed","what is the right way to pray","what is the right way to pray to god","should we close our eyes when we pray","is closing eyes compulsory when we pray","do we need to close our eyes when we pray","what is the correct procedure to pray","what is the correct procedure to pray to god"],
+            "responses": ["SOE-16"]
+        },
+        {
+            "tag": "SOE17",
+            "patterns": ["i do not understand the meaning of the slokas i recite, so what is the point of reciting them","what is the point of reciting the slokas, if i don't understand them","i do not understand the meaning of the slokas i recite, what is the point of reciting the slokas","is it important to understand the slokas we recite","i do not understand the meaning of the slokas i recite, so what is the point of reciting them"],
+            "responses": ["SOE-17"]
+        },
+        {
+            "tag": "SOE18",
+            "patterns": ["what are the vedas","what are vedas","what do you mean by vedas","what do vedas mean","can you tell me about vedas"],
+            "responses": ["SOE-18"]
+        },
+        {
+            "tag": "SOE19",
+            "patterns": ["why should we accept vedas","is it important to accept vedas","why do we need to accept vedas","do we need to accept vedas","is it important to accept vedas","is accepting vedas important","are vedas important"],
+            "responses": ["SOE-19"]
+        },
+        {
+            "tag": "SOE20",
+            "patterns": ["how do we know that vedas indeed contain the truth","do vedas contain the truth","are vedas true","how do we know if the vedas are true or not","are vedas truthful"],
+            "responses": ["SOE-20"]
+        },
+        {
+            "tag": "SOE21",
+            "patterns": ["how many vedas are there","can you tell me about different vedas","can you tell me about different types of vedas","how many vedas are there","can you name all the vedas","how many types of vedas are there"],
+            "responses": ["SOE-21"]
+        },
+        {
+            "tag": "SOE22",
+            "patterns": ["why do we go to temple if god is everywhere","if god is everywhere, why do we go to temples","why do we go to temples if we know that god is everywhere","why do people go to temples if god exists everywhere","if god exists everywhere, why do people go to temples"],
+            "responses": ["SOE-22"]
+        },
+        {
+            "tag": "SOE23",
+            "patterns": ["if one can buy an idol from shop and keep it, it's a vigraha, so why should one go to temple then","if one can buy an idol and keep it in the house why should he got to temple"],
+            "responses": ["SOE-23"]
+        },
+        {
+            "tag": "SOE24",
+            "patterns": ["there are so many rules and regulations to pray or go to temple, cant god just accept the way we are and be ok with however we visit him","do we need to follow rules and regulations to pray to god","are rules and regulations important when we pray to god","why cant god just accept the way we are and let us pray the way we want to","does god needs us to follow rules and regulations when we pray to him","are rules and regulations important when we go to temple and pray"],
+            "responses": ["SOE-24"]
+        },
+        {
+            "tag": "SOE25",
+            "patterns": ["why cannot we go inside the sanctum sanctorum near god","why would we see the god from a distance","why cannot we go near the sanctum sanctorum near god and then pray","can we go near the sanctum sanctorum near god","why do we need to pray to god from a distance","why aren't we allowed to go to the sanctum sanctorum","why do we need to pray to god from distance"],
+            "responses": ["SOE-25"]
         }
+
     ]
 }

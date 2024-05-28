@@ -1,5 +1,6 @@
 # Speech Recognition and Chatbot Application
 
+(Note: The following project was a collaborative effort between the dignitaries from the Statue of Equality and my team, which included Sathya Vemulapalli, Pranav Kompally, and myself, Gautam Galada.)
 This application utilizes Flask, speech recognition, and a chatbot to enable speech-based interaction with users. The chatbot is trained using AIML (Artificial Intelligence Markup Language) and leverages the transformers library for text classification. The application can recognize speech input, process it using the chatbot, and provide a response or perform a specific action based on the user's query.
 
 ## Prerequisites
